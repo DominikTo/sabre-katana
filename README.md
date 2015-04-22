@@ -160,7 +160,7 @@ major browsers, except IE9 (we are working on it).
 Head over to the [sabre/dav mailinglist][mailinglist], or you can also just
 [open a ticket on GitHub][issues].
 
-# Made at <img src="http://sabre.io/img/trusted/fruux.png" height="60px" alt="fruux" />
+# Made at <img src="https://fruux.com/static/img/fruux/logo-big.png" height="60px" alt="fruux" />
 
 sabre/katana is being developed by [fruux]. Drop us a line for commercial
 services or enterprise support.
